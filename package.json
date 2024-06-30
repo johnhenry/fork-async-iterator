@@ -1,0 +1,18 @@
+{
+  "name": "fork-async-iterator",
+  "version": "0.0.0",
+  "description": "Fork an asychronous iterator",
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnhenry/fork-async-iterator"
+  },
+  "dependencies": {
+    "iterqueue": "^0.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
